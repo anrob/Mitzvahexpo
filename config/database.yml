@@ -17,8 +17,6 @@ test:
 
 production:
   adapter: mysql
-  database: mitzvahexpo
-  username: iamjustfresh@gmail.com
-  password: shaina 
+  database: Mitzvahexpo_production
   host: localhost
   pool: 5
