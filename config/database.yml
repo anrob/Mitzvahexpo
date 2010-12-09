@@ -17,8 +17,8 @@ test:
 
 production:
   adapter: mysql
-  database: mpowermp_mitzvahexpo
-  username: mpowermp_mitzvah
+  database: mitzvahexpo
+  username: iamjustfresh@gmail.com
   password: shaina 
   host: localhost
   pool: 5
