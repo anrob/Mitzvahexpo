@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/matchers
+END
+validate_attachment_size_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/matchers/validate_attachment_size_matcher_test.rb
+END
+validate_attachment_content_type_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/matchers/validate_attachment_content_type_matcher_test.rb
+END
+have_attached_file_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/matchers/have_attached_file_matcher_test.rb
+END
+validate_attachment_presence_matcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/matchers/validate_attachment_presence_matcher_test.rb
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation
+END
+data_mapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/data_mapper.rb
+END
+authlogic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/authlogic.rb
+END
+rack.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/rack.rb
+END
+delayed_job_instrumentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/delayed_job_instrumentation.rb
+END
+net.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/net.rb
+END
+active_record_instrumentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/active_record_instrumentation.rb
+END
+active_merchant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/active_merchant.rb
+END
+metric_frame.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/metric_frame.rb
+END
+unicorn_instrumentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/unicorn_instrumentation.rb
+END
+sinatra.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/sinatra.rb
+END
+memcache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/memcache.rb
+END
+controller_instrumentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/controller_instrumentation.rb
+END
+passenger_instrumentation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/passenger_instrumentation.rb
+END
+sunspot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/sunspot.rb
+END
+acts_as_solr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/instrumentation/acts_as_solr.rb
+END

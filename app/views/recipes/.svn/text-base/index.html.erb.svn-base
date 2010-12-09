@@ -1,0 +1,10 @@
+<% title "Recipes" %> 
+
+
+        <% @recipes.each do |recipe| %>
+<%= link_to recipe.name, recipe %>
+            <% end -%>
+
+   <% if admin? %>
+<p><%= link_to "New Recipe", new_recipe_path %></p>
+  <% end -%>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test
+END
+paperclip_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/paperclip_test.rb
+END
+processor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/processor_test.rb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/helper.rb
+END
+style_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/style_test.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/database.yml
+END
+integration_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/integration_test.rb
+END
+iostream_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/iostream_test.rb
+END
+thumbnail_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/thumbnail_test.rb
+END
+storage_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/storage_test.rb
+END
+upfile_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/upfile_test.rb
+END
+attachment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/attachment_test.rb
+END
+interpolations_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/interpolations_test.rb
+END
+geometry_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/test/geometry_test.rb
+END

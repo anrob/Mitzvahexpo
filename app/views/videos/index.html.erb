@@ -1,0 +1,14 @@
+<% title "Videos" %>
+ <%= render :partial => 'featured' %>  
+     
+         <%#= render :partial => 'videothumb' %>
+
+  
+ 
+              
+                
+            
+            <div class="clear"> </div>
+             <% if admin? %> 
+<p><%= link_to "New Video", new_video_path %></p>   
+<% end -%>

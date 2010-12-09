@@ -1,0 +1,57 @@
+     <% title @restaurant.name %>
+<div class="grid_6 showpage">
+     <%= image_tag @restaurant.photo.url(:small) %>
+  
+  <h1 class="bname"><%=h @restaurant.name %> </h1> 
+    <h2><%=h @restaurant.phone_number %></h2>   
+
+
+
+  <%=h @restaurant.address %><br>
+
+
+ 
+  <%=h @restaurant.city %>, <%=h @restaurant.state %>   <%=h @restaurant.zip %> <br> 
+
+
+
+  <strong>Website:</strong>
+  <%=h @restaurant.website %>
+ <% if @restaurant.views_count_s > 5 %>
+  <p>
+    view:<%= @restaurant.views_count_s %>
+  </p>
+  <% end -%>
+     <%# @votepos =  @user.vote(@restaurant, true) %>
+<%# @voteneg = @user.vote(@restaurant, false)%>
+
+  </div>
+ <%#= render :partial => 'votingthing' %>
+
+     <%= render :partial => '/shared/twitterbutton' %>
+
+     <hr> 
+    
+     
+
+  <div class="clear"><!-- clear --></div>   
+  <% if admin? %>
+  <%= link_to "Edit", edit_restaurant_path(@restaurant) %> |
+  <%= link_to "Destroy", @restaurant, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", restaurants_path %>  
+  <% end -%>
+
+<div class="tags"><strong>Tags:</strong><% @tag.each do |tagit| %>
+    <%= link_to tagit.name, { :action => :tag, :id => tagit.name } %>
+      <% end %>
+      </div>    
+    
+<p class="reviewbar"> <%= link_to "Write a Review", new_restaurant_review_path(@restaurant) %>	 Send to a friend	 Edit restaurant info
+    <div id="reviews">
+        <h3>Reviews</h3>
+      <%= render :partial => @restaurant.reviews %>
+
+        
+    </div>
+<%= render 'alsosee' %>
+

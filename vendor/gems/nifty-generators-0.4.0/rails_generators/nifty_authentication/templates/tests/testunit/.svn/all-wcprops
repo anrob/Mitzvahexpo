@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/tests/testunit
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/tests/testunit/user.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/tests/testunit/users_controller.rb
+END
+sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/tests/testunit/sessions_controller.rb
+END

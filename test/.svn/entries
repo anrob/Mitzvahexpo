@@ -1,0 +1,77 @@
+10
+
+dir
+1
+http://anrob@sofresh.svn.beanstalkapp.com/mitzvahexpo/mitzvahexpo/test
+http://anrob@sofresh.svn.beanstalkapp.com/mitzvahexpo
+
+
+
+2010-09-29T16:16:14.193675Z
+1
+anrob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410c0ff4-f7cb-4ce8-99bd-283fdada4f89
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2010-09-29T16:16:20.000000Z
+e297614c72684d065aef001f86188732
+2010-09-29T16:16:14.193675Z
+1
+anrob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1800
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

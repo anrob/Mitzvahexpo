@@ -1,0 +1,26 @@
+<h1>What do you think of <br /><%= @restaurant.name %>
+
+?</h1>
+<p>Give your full review of the place, or just tell the world about your favorite dish. If Menu Maker has the wrong information about the restaurant, please correct us.</p>
+<% form_for [@restaurant, @review] do |f| %>
+  <%= f.error_messages %>
+ <%= f.hidden_field :user_id, :value => @user.id %>
+
+  <p>
+    <%= f.label :title %><br />
+    <%= f.text_field :title %>
+  </p>
+  <p>
+    <%= f.label :body %><br />
+    <%= f.text_area :body %>
+  </p>
+  <p>
+    <%= f.submit 'Create' %>
+  </p>
+<% end %>
+
+ 
+
+<p>We reserve the right to delete any review for any reason, especially reviews that are irrelevant or offensive. We don't allow profanity, personal attacks, spam, or duplicate reviews. If you are the owner of a restaurant, please identify yourself in your review.</p>      
+
+<%= link_to 'Back', reviews_path %> 

@@ -1,0 +1,79 @@
+10
+
+dir
+1
+http://anrob@sofresh.svn.beanstalkapp.com/mitzvahexpo/mitzvahexpo/vendor/gems
+http://anrob@sofresh.svn.beanstalkapp.com/mitzvahexpo
+
+
+
+2010-09-29T16:16:14.193675Z
+1
+anrob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410c0ff4-f7cb-4ce8-99bd-283fdada4f89
+
+rpx_now-0.6.23
+dir
+
+paperclip-2.3.3
+dir
+
+devise-1.0.8
+dir
+
+babosa-0.2.0
+dir
+
+populator-0.2.5
+dir
+
+friendly_id-3.1.1.1
+dir
+
+faker-0.3.1
+dir
+
+acts-as-taggable-on-2.0.0.rc1
+dir
+
+nifty-generators-0.4.0
+dir
+
+warden-0.10.7
+dir
+
+will_paginate-2.3.14
+dir
+
+devise_rpx_connectable-0.2.2
+dir
+
+ajaxful_rating-2.2.8.2
+dir
+
+peteonrails-vote_fu-0.0.11
+dir
+
+newrelic_rpm-2.13.1
+dir
+
+json_pure-1.4.6
+dir
+
+youtube-g-0.5.0
+dir
+

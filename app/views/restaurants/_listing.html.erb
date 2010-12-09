@@ -1,0 +1,13 @@
+<% for restaurant in @restaurants %>
+  <div class="rest_container grid_4"> 
+      <%= image_tag restaurant.photo.url(:tiny) %> 
+    <h4 class="reslisting"><%=h link_to restaurant.name , restaurant %></h4>
+  <%=h restaurant.address %><br />
+     <%=h restaurant.city %>, <%=h restaurant.state %> <%=h restaurant.zip %><br />
+
+     <%=h restaurant.phone_number %><br />
+     <%#=link_to "http://#{restaurant.website}", restaurant.website %>
+     </div>
+<% end %>
+        <div class="clear"> </div>
+<%#= will_paginate @restaurants %>                         

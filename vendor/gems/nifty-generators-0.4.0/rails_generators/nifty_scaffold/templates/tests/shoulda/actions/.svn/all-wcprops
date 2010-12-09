@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions
+END
+show.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/show.rb
+END
+update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/update.rb
+END
+create.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/create.rb
+END
+edit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/edit.rb
+END
+index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/index.rb
+END
+destroy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/destroy.rb
+END
+new.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_scaffold/templates/tests/shoulda/actions/new.rb
+END

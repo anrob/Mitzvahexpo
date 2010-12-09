@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate
+END
+20100924063112_add_title_to_video.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100924063112_add_title_to_video.rb
+END
+20100923123824_create_videos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100923123824_create_videos.rb
+END
+20100922141455_create_recipes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100922141455_create_recipes.rb
+END
+20100829212214_vote_fu_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100829212214_vote_fu_migration.rb
+END
+20100827021045_add_category_to_restaurants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100827021045_add_category_to_restaurants.rb
+END
+20100907225949_create_reviews.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100907225949_create_reviews.rb
+END
+20100829202840_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100829202840_devise_create_users.rb
+END
+20100909055004_create_articles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100909055004_create_articles.rb
+END
+20100829204021_create_rates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100829204021_create_rates.rb
+END
+20100830043026_acts_as_taggable_on_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100830043026_acts_as_taggable_on_migration.rb
+END
+20100922000449_add_attachments_photo_to_restaurant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100922000449_add_attachments_photo_to_restaurant.rb
+END
+20100818054705_create_restaurants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100818054705_create_restaurants.rb
+END
+20100907163947_add_video_to_restaurant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100907163947_add_video_to_restaurant.rb
+END
+20100928004238_add_rpx_to_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100928004238_add_rpx_to_users.rb
+END
+20100907110312_create_slugs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/db/migrate/20100907110312_create_slugs.rb
+END

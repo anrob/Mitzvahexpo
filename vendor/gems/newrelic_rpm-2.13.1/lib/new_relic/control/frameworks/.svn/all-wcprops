@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks
+END
+rails3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/rails3.rb
+END
+ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/ruby.rb
+END
+sinatra.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/sinatra.rb
+END
+external.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/external.rb
+END
+merb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/merb.rb
+END
+rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/control/frameworks/rails.rb
+END

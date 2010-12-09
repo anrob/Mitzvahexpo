@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/devise.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/session_store.rb
+END
+cookie_verification_secret.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/cookie_verification_secret.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/initializers/mime_types.rb
+END

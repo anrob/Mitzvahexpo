@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies/password.rb
+END
+failz.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies/failz.rb
+END
+pass_with_message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies/pass_with_message.rb
+END
+invalid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies/invalid.rb
+END
+pass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/helpers/strategies/pass.rb
+END

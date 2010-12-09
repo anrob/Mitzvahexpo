@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/script
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/script/destroy
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/script/generate
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration
+END
+confirmable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/confirmable_test.rb
+END
+rememberable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/rememberable_test.rb
+END
+registerable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/registerable_test.rb
+END
+trackable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/trackable_test.rb
+END
+recoverable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/recoverable_test.rb
+END
+timeoutable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/timeoutable_test.rb
+END
+http_authenticatable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/http_authenticatable_test.rb
+END
+lockable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/lockable_test.rb
+END
+authenticatable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/authenticatable_test.rb
+END
+rack_middleware_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/rack_middleware_test.rb
+END
+token_authenticatable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/integration/token_authenticatable_test.rb
+END

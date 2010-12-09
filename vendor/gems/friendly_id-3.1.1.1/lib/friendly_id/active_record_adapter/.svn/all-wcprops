@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter
+END
+relation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/relation.rb
+END
+tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/tasks.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/configuration.rb
+END
+simple_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/simple_model.rb
+END
+finders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/finders.rb
+END
+slug.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/slug.rb
+END
+slugged_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record_adapter/slugged_model.rb
+END

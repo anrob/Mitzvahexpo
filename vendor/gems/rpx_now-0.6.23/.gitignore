@@ -1,0 +1,6 @@
+Manifest
+pkg
+.*.swp
+.*.swo
+*.autotest
+.bundle

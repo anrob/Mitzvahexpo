@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/stats_engine
+END
+metric_stats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/stats_engine/metric_stats.rb
+END
+samplers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/stats_engine/samplers.rb
+END
+transactions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/stats_engine/transactions.rb
+END

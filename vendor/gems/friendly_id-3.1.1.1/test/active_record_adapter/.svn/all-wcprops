@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter
+END
+sti_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/sti_test.rb
+END
+ar_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/ar_test_helper.rb
+END
+cached_slug_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/cached_slug_test.rb
+END
+custom_table_name_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/custom_table_name_test.rb
+END
+tasks_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/tasks_test.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/core.rb
+END
+simple_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/simple_test.rb
+END
+optimistic_locking_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/optimistic_locking_test.rb
+END
+slug_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/slug_test.rb
+END
+basic_slugged_model_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/basic_slugged_model_test.rb
+END
+slugged.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/slugged.rb
+END
+custom_normalizer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/custom_normalizer_test.rb
+END
+scoped_model_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/scoped_model_test.rb
+END
+slugged_status_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/test/active_record_adapter/slugged_status_test.rb
+END

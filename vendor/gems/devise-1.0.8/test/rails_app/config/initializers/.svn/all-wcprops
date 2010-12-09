@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/rails_app/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/rails_app/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/rails_app/config/initializers/devise.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/rails_app/config/initializers/session_store.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/rails_app/config/initializers/new_rails_defaults.rb
+END

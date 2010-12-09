@@ -1,0 +1,157 @@
+h1. Devise RPX Connectable
+
+_Devise << RPX_ by "Nicolas Blanco":http://github.com/slainer68
+
+h2. What is Devise?
+
+A great authentication gem for Rails applications.
+
+"http://github.com/plataformatec/devise":http://github.com/plataformatec/devise
+
+h2. What is RPX (now Janrain Engage)?
+
+RPX (now called Janrain Engage) is a Software as a Service (SaaS) that helps you manage multiple authentication methods (FacebookConnect, Google, Twitter, OpenID, MySpace...) using a single API.
+It also provides a multilingual connection widget.
+Instead of managing multiple authentication providers and APIs, you just need to handle one.
+
+Janrain Engage provides free and paid accounts.
+
+See *"Janrain Engage official homepage":https://rpxnow.com/*. If you want to see what it looks like, you may signup on the Janrain Engage website as it uses Engage for signup :).
+
+h2. What is Devise RPX Connectable?
+
+Devise RPX Connectable is a gem to integrate Janrain Engage authentication in a Rails application using Devise.
+
+Please note that this is an unofficial library. It is neither affiliated with, nor endorsed by Janrain Inc.
+
+h2. Dependencies
+
+Devise RPX Connectable should be compatible with the latest Rails and Devise versions (currently Rails 3.0 and Devise 1.1.2).
+
+IMPORTANT : This gem is now ONLY COMPATIBLE with Rails 3, if you want to use it with Rails 2, please use version 0.1.3.
+
+h2. Installation
+
+As usual... Add @gem "devise_rpx_connectable"@ in your Gemfile.lock...
+
+h2. Setup
+
+*Devise: Setup*
+
+See "Devise":http://github.com/plataformatec/devise documentation for instructions on how to setup Devise.
+
+*Devise: Model*
+
+Add @:rpx_connectable@ in your Devise model (ie. User.rb)
+
+<pre>
+  devise ..., :rpx_connectable
+</pre>
+
+*Devise:Setup*
+
+In the Devise initializer (may be @config/initializers/devise.rb@) :
+
+<pre>
+  Devise.setup do |config|
+    ...
+    config.rpx_application_name = "mytestingapp" # The name of your RPX application (this is the name, NOT the API key!)
+  end
+</pre>
+
+*RPXNow:API Key*
+
+In @config/application.rb@ or @config/environments/YOUR_ENV.rb@ (to set a different key for each environment...) :
+
+<pre>
+  ...
+    RPXNow.api_key = "aaaabbbbbccccdddddeeeeefffff"
+  ...
+</pre>
+
+*Migrations*
+
+Your model needs one attribute/column to store the RPX identifier. By default, this identifier is @rpx_identifier@.
+So don't forget to add that field to your model (using a migration or whatever...).
+
+*Views*
+
+The RPX connection widget can be added in your application using a link or an iframe.
+If you choose to use a link, the connection widget can be displayed in a new page (standard link) or using Javascript in overlay.
+
+I added an easy to use helper to add a link to the RPX connection popup.
+
+<pre>
+  <%= link_to_rpx "Signin using RPX!", user_session_url %>
+</pre>
+
+If you use the link alone, users will be redirected to a new page.
+If you want the more sexy popup in overlay, you need to add the JS code before the @</body>@ of your layout.
+An helper is also included for this task :
+
+<pre>
+      ...
+      <%= javascript_include_rpx(user_session_url) %>
+    </body>
+  </html>
+</pre>
+
+If you want to display the connection widget in an iframe inside a page :
+
+<pre>
+  <%= embed_rpx user_session_url %>
+</pre>
+
+h2. Advanced
+
+There is some advanced features that you may use...
+
+*Devise:Setup*
+
+<pre>
+  Devise.setup do |config|
+    ...
+		config.rpx_auto_create_account = true # false if you don't want to create users automaticaly. True by default.
+		config.rpx_additional_user_data = [:verifiedEmail, :url, :providerName,:photo] # default [], get some extra profile info from RPXnow, default only a few fields are available in the rpx_user object (https://rpxnow.com/docs#profile_data)
+		config.rpx_extended_user_data = true # false by default, extended data only available for Plus and Pro RPX users (https://rpxnow.com/docs#api_auth_info)
+  end
+</pre>
+
+*Devise:Model*
+
+There are two hooks that you may define in your model : @before_rpx_success@ (called before each successful connection) and @before_rpx_auto_create@ (called only once before the auto saving of the user instance, when rpx_auto_create_account is enabled).
+You get in parameter the RPX User object from the RPXNow gem which is basically a Hash containing more or less information depending on your RPX configuration and account.
+Read the RPXNow gem documentation for more information about this...
+
+<pre>
+  def before_rpx_success(rpx_user)
+    # Do something with rpx_user...
+  end
+  
+  def before_rpx_auto_create(rpx_user)
+    # Do something with rpx_user
+  end
+</pre>
+
+h2. TODO
+
+* Handle RPX multiple accounts mapping?
+
+h2. Contributors
+
+* "Paco Benavent":http://github.com/Knack
+* "DohMoose":http://github.com/DohMoose
+* "Chris de Bruin":http://github.com/chrisdebruin
+* "Michael Bumann":http://github.com/bumi
+* "Arek Flinik":http://github.com/blax
+* "Nader Akhnoukh":http://github.com/iamnader
+
+h2. Thanks
+
+The base of this gem was heavily inspired from the "Devise Facebook Connectable gem":http://github.com/grimen/devise_facebook_connectable by "Jonas Grimfelt":http://github.com/grimen and other Devise gems.
+This gem also uses the great "rpx_now":http://github.com/grosser/rpx_now by "Michael Grosser":http://github.com/grosser
+
+h2. License
+
+Released under the MIT license.<br />
+Copyright (c) 2010 "Nicolas Blanco":http://github.com/slainer68

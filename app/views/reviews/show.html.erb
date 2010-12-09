@@ -1,0 +1,23 @@
+<p>
+  <b>Restaurant:</b>
+  <%=h @review.restaurant_id %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%=h @review.user_id %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%=h @review.title %>
+</p>
+
+<p>
+  <b>Body:</b>
+  <%=h @review.body %>
+</p>
+
+
+<%= link_to 'Edit', edit_review_path(@review) %> |
+<%= link_to 'Back', reviews_path %>

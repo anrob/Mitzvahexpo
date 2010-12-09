@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml
+END
+show.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml/show.html.haml
+END
+_form.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml/_form.html.haml
+END
+edit.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml/edit.html.haml
+END
+index.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml/index.html.haml
+END
+new.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/lib/generators/nifty/scaffold/templates/views/haml/new.html.haml
+END

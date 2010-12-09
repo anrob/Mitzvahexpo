@@ -1,0 +1,28 @@
+<% form_for @recipe do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :prep_time %><br />
+    <%= f.text_field :prep_time %>
+  </p>
+  <p>
+    <%= f.label :ready_time %><br />
+    <%= f.text_field :ready_time %>
+  </p>
+  <p>
+    <%= f.label :serving %><br />
+    <%= f.text_field :serving %>
+  </p>
+  <p>
+    <%= f.label :ingredient %><br />
+    <%= f.text_area :ingredient %>
+  </p>
+  <p>
+    <%= f.label :direction %><br />
+    <%= f.text_area :direction %>
+  </p>
+  <p><%= f.submit %></p>
+<% end %>

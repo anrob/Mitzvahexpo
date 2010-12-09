@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models
+END
+token_authenticatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/token_authenticatable.rb
+END
+activatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/activatable.rb
+END
+confirmable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/confirmable.rb
+END
+database_authenticatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/database_authenticatable.rb
+END
+rememberable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/rememberable.rb
+END
+registerable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/registerable.rb
+END
+trackable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/trackable.rb
+END
+validatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/validatable.rb
+END
+recoverable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/recoverable.rb
+END
+timeoutable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/timeoutable.rb
+END
+http_authenticatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/http_authenticatable.rb
+END
+lockable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/models/lockable.rb
+END

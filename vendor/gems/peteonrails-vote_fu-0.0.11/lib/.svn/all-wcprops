@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/peteonrails-vote_fu-0.0.11/lib
+END
+acts_as_voteable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/peteonrails-vote_fu-0.0.11/lib/acts_as_voteable.rb
+END
+has_karma.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/peteonrails-vote_fu-0.0.11/lib/has_karma.rb
+END
+vote_fu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/peteonrails-vote_fu-0.0.11/lib/vote_fu.rb
+END
+acts_as_voter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/peteonrails-vote_fu-0.0.11/lib/acts_as_voter.rb
+END

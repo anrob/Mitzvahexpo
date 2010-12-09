@@ -1,0 +1,43 @@
+<% form_for @restaurant, :html => { :multipart => true } do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :address %><br />
+    <%= f.text_field :address %>
+  </p>
+  <p>
+    <%= f.label :city %><br />
+    <%= f.text_field :city %>
+  </p>
+  <p>
+    <%= f.label :state %><br />
+    <%= f.text_field :state %>
+  </p>
+  <p>
+    <%= f.label :zip %><br />
+    <%= f.text_field :zip %>
+  </p>
+  <p>
+    <%= f.label :phone_number %><br />
+    <%= f.text_field :phone_number %>
+  </p>
+  <p>
+    <%= f.label :website %><br />
+    <%= f.text_field :website %>
+  </p>
+  
+  <p>
+     <%= f.label :Video_Code %><br />
+     <%= f.text_field :video_code %>
+   </p>   
+  <%= f.label :Tags_list %>
+  <%= f.text_field :feature_list, :size => 80 %> 
+  </p>  
+  <p>
+      <%= f.file_field :photo %>
+  </p>
+  <p><%= f.submit %></p>
+<% end %>

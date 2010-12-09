@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional
+END
+restaurants_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/restaurants_controller_test.rb
+END
+receipes_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/receipes_controller_test.rb
+END
+reviews_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/reviews_controller_test.rb
+END
+articles_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/articles_controller_test.rb
+END
+videos_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/videos_controller_test.rb
+END
+recipes_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/functional/recipes_controller_test.rb
+END

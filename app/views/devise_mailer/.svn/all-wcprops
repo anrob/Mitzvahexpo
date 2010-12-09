@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/devise_mailer
+END
+reset_password_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/devise_mailer/reset_password_instructions.html.erb
+END
+confirmation_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/devise_mailer/confirmation_instructions.html.erb
+END
+unlock_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/devise_mailer/unlock_instructions.html.erb
+END

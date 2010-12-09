@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/compatibility
+END
+active_record_backports.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/compatibility/active_record_backports.rb
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/compatibility/Gemfile
+END

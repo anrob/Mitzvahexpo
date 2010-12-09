@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip
+END
+callback_compatability.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/callback_compatability.rb
+END
+processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/processor.rb
+END
+style.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/style.rb
+END
+iostream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/iostream.rb
+END
+thumbnail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/thumbnail.rb
+END
+storage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/storage.rb
+END
+upfile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/upfile.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/version.rb
+END
+matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/matchers.rb
+END
+attachment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/attachment.rb
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/railtie.rb
+END
+interpolations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/interpolations.rb
+END
+geometry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/paperclip-2.3.3/lib/paperclip/geometry.rb
+END

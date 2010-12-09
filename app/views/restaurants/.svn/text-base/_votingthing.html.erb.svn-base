@@ -1,0 +1,11 @@
+<div class="grid_2 voting">
+          <p ><center class="votesfor"><%= @restaurant.votes_count %><br>
+              total votes 
+              <p class="votebuttons"><%= link_to "Like it", {:action => :vote, :id => @restaurant }, :class => "likeit" %>
+                 
+                  </p>
+
+              </center>
+        Vote for : <%= @restaurant.votes_for %> <br> Vote against : <%= @restaurant.votes_against %>
+     
+ </div> 

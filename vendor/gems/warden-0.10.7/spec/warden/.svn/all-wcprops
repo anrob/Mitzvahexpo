@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden
+END
+hooks_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/hooks_spec.rb
+END
+config_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/config_spec.rb
+END
+authenticated_data_store_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/authenticated_data_store_spec.rb
+END
+manager_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/manager_spec.rb
+END
+strategies_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/strategies_spec.rb
+END
+errors_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/errors_spec.rb
+END
+session_serializer_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/session_serializer_spec.rb
+END
+proxy_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/spec/warden/proxy_spec.rb
+END

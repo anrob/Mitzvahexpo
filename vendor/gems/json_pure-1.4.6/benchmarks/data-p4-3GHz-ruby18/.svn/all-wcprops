@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18
+END
+ParserBenchmarkExt#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkExt%23parser.dat
+END
+GeneratorBenchmarkExt#generator_fast.dat
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_fast.dat
+END
+ParserBenchmarkYAML#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkYAML%23parser.dat
+END
+GeneratorBenchmarkExt#generator_pretty-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_pretty-autocorrelation.dat
+END
+GeneratorBenchmarkPure#generator_safe-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_safe-autocorrelation.dat
+END
+GeneratorBenchmarkRails#generator-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkRails%23generator-autocorrelation.dat
+END
+GeneratorBenchmarkPure#generator_pretty.dat
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_pretty.dat
+END
+ParserBenchmarkExt#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkExt%23parser-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_fast-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_fast-autocorrelation.dat
+END
+ParserBenchmarkRails#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkRails%23parser.dat
+END
+ParserBenchmarkYAML#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkYAML%23parser-autocorrelation.dat
+END
+ParserBenchmarkPure#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkPure%23parser.dat
+END
+GeneratorBenchmarkPure#generator_fast.dat
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_fast.dat
+END
+GeneratorBenchmarkPure#generator_pretty-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_pretty-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_safe.dat
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_safe.dat
+END
+ParserBenchmarkRails#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkRails%23parser-autocorrelation.dat
+END
+ParserBenchmarkPure#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkPure%23parser-autocorrelation.dat
+END
+GeneratorBenchmarkPure#generator_fast-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_fast-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_safe-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_safe-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_pretty.dat
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_pretty.dat
+END
+GeneratorBenchmarkPure#generator_safe.dat
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_safe.dat
+END
+GeneratorBenchmarkRails#generator.dat
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/json_pure-1.4.6/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkRails%23generator.dat
+END

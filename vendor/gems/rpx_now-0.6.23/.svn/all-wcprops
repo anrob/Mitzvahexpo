@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/.gitignore
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/VERSION
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/CHANGELOG
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/Gemfile
+END
+MIGRATION
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/MIGRATION
+END
+Readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/Readme.md
+END
+.specification
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/.specification
+END
+rpx_now.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/rpx_now-0.6.23/rpx_now.gemspec
+END

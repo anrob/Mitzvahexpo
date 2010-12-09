@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/rack
+END
+metric_app.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/rack/metric_app.rb
+END
+mongrel_rpm.ru
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/rack/mongrel_rpm.ru
+END
+newrelic.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/rack/newrelic.yml
+END
+developer_mode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/rack/developer_mode.rb
+END

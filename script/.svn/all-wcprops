@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/script/plugin
+END

@@ -1,0 +1,5 @@
+<h3><%= params[:id].upcase %> </h3><br>   
+
+     <%= render :partial => 'listing' %> 
+
+

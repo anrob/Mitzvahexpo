@@ -1,0 +1,52 @@
+/* @override 
+	http://lvh.me:3000/stylesheets/single_three.css?1232044008
+	http://lvh.me:3000/stylesheets/single_three.css?1285011447
+	http://lvh.me:3000/stylesheets/single_three.css?1285014933
+*/
+
+#pad {height:140px;}
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssmenus.co.uk
+Copyright (c) 2009- Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+#menu {  list-style:none; height:40px;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+#menu li {float:left;}
+#menu li a {display:block; height:40px; line-height:40px; padding:0 20px 0 0; float:left; color:#fff; text-decoration:none;}
+#menu li b a {display:block; height:40px; float:left; padding:0 0 0 20px; cursor:pointer;}
+#menu li a:hover, 
+.home #menu li#home a,
+.single #menu li#single a,
+.dropdown #menu li#dropdown a,
+.dropline #menu li#dropline a,
+.flyout #menu li#flyout a,
+.support #menu li#support a,
+.contact #menu li#contact a
+{background:url(/images/tab_a.gif) no-repeat right top; line-height:36px;}
+#menu li a:hover b,
+.home #menu li#home a,
+.single #menu li#single a,
+.dropdown #menu li#dropdown a,
+.dropline #menu li#dropline a,
+.flyout #menu li#flyout a,
+.support #menu li#support a,
+.contact #menu li#contact a
+{background:url(/images/tab_b.gif) no-repeat left top; line-height:36px;}
+
+
+#menu li.single a {
+background:url(/images/tab_a.gif) no-repeat right top; line-height:36px; cursor:pointer;
+	padding: 0 20px;
+}
+#menu li.single {
+background:url(/images/tab_b.gif) no-repeat left top; line-height:36px; padding: 0;
+	margin-left: 0;
+}

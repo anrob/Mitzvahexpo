@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/samplers
+END
+object_sampler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/samplers/object_sampler.rb
+END
+cpu_sampler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/samplers/cpu_sampler.rb
+END
+memory_sampler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/samplers/memory_sampler.rb
+END
+delayed_job_lock_sampler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/newrelic_rpm-2.13.1/lib/new_relic/agent/samplers/delayed_job_lock_sampler.rb
+END

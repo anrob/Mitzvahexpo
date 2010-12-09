@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers
+END
+recipes_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers/recipes_controller.rb
+END
+restaurants_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers/restaurants_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mitzvahexpo/!svn/ver/9/mitzvahexpo/app/controllers/application_controller.rb
+END
+reviews_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers/reviews_controller.rb
+END
+articles_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers/articles_controller.rb
+END
+videos_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/controllers/videos_controller.rb
+END

@@ -1,0 +1,108 @@
+--- !ruby/object:Gem::Specification 
+name: devise_rpx_connectable
+version: !ruby/object:Gem::Version 
+  hash: 19
+  prerelease: false
+  segments: 
+  - 0
+  - 2
+  - 2
+  version: 0.2.2
+platform: ruby
+authors: 
+- Nicolas Blanco
+autorequire: 
+bindir: bin
+cert_chain: []
+
+date: 2010-09-12 00:00:00 -04:00
+default_executable: 
+dependencies: 
+- !ruby/object:Gem::Dependency 
+  name: devise
+  prerelease: false
+  requirement: &id001 !ruby/object:Gem::Requirement 
+    none: false
+    requirements: 
+    - - ">="
+      - !ruby/object:Gem::Version 
+        hash: 23
+        segments: 
+        - 1
+        - 1
+        - 2
+        version: 1.1.2
+  type: :runtime
+  version_requirements: *id001
+- !ruby/object:Gem::Dependency 
+  name: rpx_now
+  prerelease: false
+  requirement: &id002 !ruby/object:Gem::Requirement 
+    none: false
+    requirements: 
+    - - ">="
+      - !ruby/object:Gem::Version 
+        hash: 41
+        segments: 
+        - 0
+        - 6
+        - 23
+        version: 0.6.23
+  type: :runtime
+  version_requirements: *id002
+description: Devise << RPX
+email: slainer68@gmail.com
+executables: []
+
+extensions: []
+
+extra_rdoc_files: 
+- README.textile
+files: 
+- MIT-LICENSE
+- README.textile
+- Rakefile
+- lib/devise_rpx_connectable.rb
+- lib/devise_rpx_connectable/locales/en.yml
+- lib/devise_rpx_connectable/model.rb
+- lib/devise_rpx_connectable/schema.rb
+- lib/devise_rpx_connectable/strategy.rb
+- lib/devise_rpx_connectable/version.rb
+- lib/devise_rpx_connectable/view_helpers.rb
+- rails/init.rb
+has_rdoc: true
+homepage: http://github.com/slainer68/devise_rpx_connectable
+licenses: []
+
+post_install_message: 
+rdoc_options: 
+- --charset=UTF-8
+require_paths: 
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement 
+  none: false
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      hash: 3
+      segments: 
+      - 0
+      version: "0"
+required_rubygems_version: !ruby/object:Gem::Requirement 
+  none: false
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      hash: 3
+      segments: 
+      - 0
+      version: "0"
+requirements: []
+
+rubyforge_project: 
+rubygems_version: 1.3.7
+signing_key: 
+specification_version: 3
+summary: Devise << RPX
+test_files: []
+

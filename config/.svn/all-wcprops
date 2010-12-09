@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mitzvahexpo/!svn/ver/10/mitzvahexpo/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mitzvahexpo/!svn/ver/10/mitzvahexpo/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/environment.rb
+END
+newrelic.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/config/newrelic.yml
+END
+deploy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mitzvahexpo/!svn/ver/7/mitzvahexpo/config/deploy.rb
+END

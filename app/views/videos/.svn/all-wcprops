@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos
+END
+_video.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/_video.html.erb
+END
+_videothumb.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/_videothumb.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/new.html.erb
+END
+list.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/list.html.erb
+END
+_featured.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/_featured.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/show.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/videos/_form.html.erb
+END

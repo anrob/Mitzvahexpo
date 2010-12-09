@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden
+END
+proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/proxy.rb
+END
+hooks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/hooks.rb
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/config.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/version.rb
+END
+manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/manager.rb
+END
+strategies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/strategies.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/errors.rb
+END
+session_serializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/lib/warden/session_serializer.rb
+END

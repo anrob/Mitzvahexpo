@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/user.rb
+END
+review.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/review.rb
+END
+article.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/article.rb
+END
+video.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/video.rb
+END
+recipe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/recipe.rb
+END
+restaurant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mitzvahexpo/!svn/ver/8/mitzvahexpo/app/models/restaurant.rb
+END
+rate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/models/rate.rb
+END

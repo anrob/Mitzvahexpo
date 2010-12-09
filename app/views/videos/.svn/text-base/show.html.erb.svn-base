@@ -1,0 +1,12 @@
+
+ <%#= @videos.inspect %>
+  <%= render :partial => 'video' %>
+
+ 
+ <% if admin? %> 
+<p>
+  <%= link_to "Edit", edit_video_path(@video) %> |
+  <%= link_to "Destroy", @video, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", videos_path %>
+</p>
+       <% end -%>

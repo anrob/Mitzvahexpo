@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/mailers
+END
+unlock_instructions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/mailers/unlock_instructions_test.rb
+END
+reset_password_instructions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/mailers/reset_password_instructions_test.rb
+END
+confirmation_instructions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/mailers/confirmation_instructions_test.rb
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/16/mitzvahexpo/app/views/restaurants/index.html.erb
+END
+_listing.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mitzvahexpo/!svn/ver/9/mitzvahexpo/app/views/restaurants/_listing.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/new.html.erb
+END
+_alsosee.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/_alsosee.html.erb
+END
+_welcome.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/_welcome.html.erb
+END
+tag.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/tag.html.erb
+END
+_votingthing.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/_votingthing.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/show.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/restaurants/_form.html.erb
+END

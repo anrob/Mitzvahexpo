@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors
+END
+restful_authentication_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/restful_authentication_sha1.rb
+END
+authlogic_sha512.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/authlogic_sha512.rb
+END
+bcrypt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/bcrypt.rb
+END
+sha512.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/sha512.rb
+END
+clearance_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/clearance_sha1.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/base.rb
+END
+sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/lib/devise/encryptors/sha1.rb
+END

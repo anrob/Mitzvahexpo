@@ -1,0 +1,24 @@
+     
+     <% @video.videos.each do |v| %>
+         <div class="video"> 
+             Category:
+             <%= link_to v.categories.first.label, :action => 'list', :id => v.categories.first.label %>
+             <br><br>
+         <strong><%= v.title %></strong> 
+         <%#= v.html_content %> 
+         <%#= v.embed_html(:width => 50, :height => 50) %> <br>
+
+         <%#= v.embed_html(width = 520) %>
+         <%#= v.embed_url%>   
+         <p><%= truncate(v.description) %>
+           <%#= v.keywords %> 
+           <% v.categories.each do |i|  %>
+                       <%= i.label %>
+              <% end -%>
+         </p>
+         <p> 
+             <img src="<%= v.thumbnails.first.url %>">
+            
+             </p>
+         </div>
+         <% end %>

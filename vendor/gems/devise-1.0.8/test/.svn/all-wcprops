@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test
+END
+devise_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/devise_test.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/test_helper.rb
+END
+routes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/routes_test.rb
+END
+test_helpers_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/test_helpers_test.rb
+END
+models_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/models_test.rb
+END
+failure_app_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/failure_app_test.rb
+END
+encryptors_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/encryptors_test.rb
+END
+mapping_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/mapping_test.rb
+END

@@ -1,0 +1,89 @@
+class RestaurantsController < ApplicationController 
+   before_filter :authenticate_user!, :except => [:index, :show, :tag, :tag_cloud ] 
+  def index
+    #@restaurants = Restaurant.all
+    @restaurants = Restaurant.paginate :page => params[:page], :order => 'name', :include => [:slugs]
+    #@items = Restaurant.tally(
+    # {  :at_least => 2,
+    #      :at_most => 10000,
+    #      :start_at => 2.weeks.ago,
+    #      #:end_at => 1.day.ago,
+    #      :limit => 10,
+    #      :order => "items.name desc"
+    # })
+    # @articles = Article.all
+  end
+
+  def show
+    @user = current_user
+    @restaurant = Restaurant.find(params[:id])
+    @tag = @restaurant.feature
+    @related = @restaurant.find_related_feature
+    @restaurant.update_views_count
+
+    # @negativeVote = @user.vote.new(:vote => false)
+
+  end
+
+  def vote
+
+    vote = Vote.new(:vote => true)
+    restaurant = Restaurant.find(params[:id])
+    restaurant.votes
+    # m.vote
+    redirect_to restaurant
+
+  end
+
+  def new
+    @restaurant = Restaurant.new
+  end
+
+  def create
+    @restaurant = Restaurant.new(params[:restaurant])
+    if @restaurant.save
+      flash[:notice] = "Successfully created restaurant."
+      redirect_to @restaurant
+    else
+      render :action => 'new'
+    end
+  end
+
+  def edit
+    @restaurant = Restaurant.find(params[:id])
+  end
+
+  def update
+    @restaurant = Restaurant.find(params[:id],:readonly => false)
+    if @restaurant.update_attributes(params[:restaurant])
+      flash[:notice] = "Successfully updated restaurant."
+      redirect_to @restaurant
+    else
+      render :action => 'edit'
+    end
+  end
+
+  def destroy
+    @restaurant = Restaurant.find(params[:id])
+    @restaurant.destroy
+    flash[:notice] = "Successfully destroyed restaurant."
+    redirect_to restaurants_url
+  end
+
+  def import
+    require 'fastercsv'
+    array_of_arrays = FasterCSV.read("/Users/anrob/myapps/citymenus/public/restaurants.csv")
+    redirect_to root_url
+  end
+
+  def tag_cloud
+    @tags = Restaurant.tag_counts # returns all the tags used
+  end
+
+  def tag
+
+    @restaurants = Restaurant.tagged_with(params[:id]).paginate(:page => params[:page], :per_page => 20)
+    #@taglist = Restaurant.tag_counts_on(:feature, :order => 'name') # returns all the tags used
+  end
+
+end

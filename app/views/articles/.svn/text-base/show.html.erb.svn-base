@@ -1,0 +1,25 @@
+<% title @article.title %> 
+<script type="text/javascript">
+  RPXNOW.loadAndRun(['Social'], function () {
+    var activity = new RPXNOW.Social.Activity(
+       "Share your comment",
+       " ",
+       "<%= article_url %>");
+    RPXNOW.Social.publishActivity(activity);
+  });
+</script>
+<p>
+  <%= render :partial => '/shared/twitterbutton' %> 
+</p>
+<p>
+  <%= simple_format(@article.body) %>
+
+  <%= render :partial => '/shared/twitterbutton' %> 
+</p>
+  <% if admin? %>
+<p>
+  <%= link_to "Edit", edit_article_path(@article) %> |
+  <%= link_to "Destroy", @article, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", articles_path %>
+</p>  
+<% end -%>

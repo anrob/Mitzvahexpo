@@ -1,0 +1,16 @@
+  <% content_for :related do %>
+  <% unless @restaurant.video_code.blank? %> 
+     <%= display_youtube_videos(@restaurant.video_code)%> 
+     <% end -%> 
+     <div class="leftalign">
+     <h4>You might also like </h4>
+ <% @related.each do |related| %> 
+  <li><%= link_to related.name, :action => related.id %>
+  </li>
+ 
+ <% end %>
+      </div> 
+<% end %>
+
+
+

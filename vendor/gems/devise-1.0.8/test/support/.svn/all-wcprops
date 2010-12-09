@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/support
+END
+tests_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/support/tests_helper.rb
+END
+test_silencer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/support/test_silencer.rb
+END
+integration_tests_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/support/integration_tests_helper.rb
+END
+assertions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/devise-1.0.8/test/support/assertions_helper.rb
+END

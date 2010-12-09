@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/Rakefile
+END
+TODO.textile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/TODO.textile
+END
+warden.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/warden.gemspec
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/.gitignore
+END
+History.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/History.rdoc
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/README.textile
+END
+.specification
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/warden-0.10.7/.specification
+END

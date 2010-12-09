@@ -1,0 +1,10 @@
+Options +FollowSymLinks +ExecCGI
+RewriteEngine On
+RewriteRule ^(stylesheets/.*)$ - [L]
+RewriteRule ^(javascripts/.*)$ - [L]
+
+# Phusion Passenger Start
+PassengerEnabled on
+
+PassengerAppRoot /home/mpowermp/myapps/mitzvahexpo/current/mitzvahexpo
+# Phusion Passenger End    

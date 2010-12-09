@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id
+END
+datamapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/datamapper.rb
+END
+sequel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/sequel.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/test.rb
+END
+slug_string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/slug_string.rb
+END
+status.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/status.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/version.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/configuration.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/active_record.rb
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/railtie.rb
+END
+slugged.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/friendly_id-3.1.1.1/lib/friendly_id/slugged.rb
+END

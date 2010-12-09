@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/user.rb
+END
+authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/authentication.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/users_helper.rb
+END
+authlogic_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/authlogic_session.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/users_controller.rb
+END
+sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/sessions_helper.rb
+END
+fixtures.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/fixtures.yml
+END
+migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/migration.rb
+END
+sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/nifty-generators-0.4.0/rails_generators/nifty_authentication/templates/sessions_controller.rb
+END

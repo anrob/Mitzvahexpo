@@ -1,0 +1,13 @@
+<% @videos.each do |video| %> 
+   <div class="grid_2"> 
+         <%#=  @button.inspect  %>
+         <% fresh = YouTubeG::Client.new.videos_by(:query => video.vid_id) %> 
+            <%#= fresh.inspect %>
+
+       <% fresh.videos.each do |san| %> <img src="<%= san.thumbnails.first.url %>"><% end -%><br> 
+        <%= link_to "Show", video %>
+        <%#= link_to "Edit", edit_video_path(video) %></td>
+        <%#= link_to "Destroy", video, :confirm => 'Are you sure?', :method => :delete %></td>
+
+        </div>
+    <% end -%>                               

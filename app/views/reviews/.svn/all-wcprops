@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews/new.html.erb
+END
+_review.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews/_review.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/reviews/show.html.erb
+END

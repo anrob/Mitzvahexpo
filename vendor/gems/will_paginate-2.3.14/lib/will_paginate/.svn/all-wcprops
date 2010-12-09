@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate
+END
+named_scope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/named_scope.rb
+END
+array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/array.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/version.rb
+END
+finder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/finder.rb
+END
+core_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/core_ext.rb
+END
+collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/collection.rb
+END
+named_scope_patch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/named_scope_patch.rb
+END
+view_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/will_paginate-2.3.14/lib/will_paginate/view_helpers.rb
+END

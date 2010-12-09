@@ -1,0 +1,8 @@
+<h1 class="titles">Articles</h1>
+<% @articles.each do |article| %>
+          <p><b><%= link_to article.title,article %></b><br> 
+          <%= h truncate(article.body, :length => 250, :omission => '...(continued)') %></p>
+<% end -%> 
+ <% if admin? %>
+<p><%= link_to "New Article", new_article_path %></p>    
+<% end -%>

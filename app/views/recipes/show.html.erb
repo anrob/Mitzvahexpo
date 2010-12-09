@@ -1,0 +1,29 @@
+<% title @recipe.name %>
+
+<p>
+  <strong>Prep Time:</strong>
+  <%=h @recipe.prep_time %>
+</p>
+<p>
+  <strong>Ready Time:</strong>
+  <%=h @recipe.ready_time %>
+</p>
+<p>
+  <strong>Serving:</strong>
+  <%=h @recipe.serving %>
+</p>
+<p>
+  <strong>Ingredient:</strong>
+  <%=h simple_format(@recipe.ingredient) %>
+</p>
+<p>
+  <strong>Direction:</strong>
+  <%=h simple_format(@recipe.direction) %>
+</p>
+ <% if admin? %>
+<p>
+  <%= link_to "Edit", edit_recipe_path(@recipe) %> |
+  <%= link_to "Destroy", @recipe, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", recipes_path %>
+</p>  
+<% end -%>

@@ -1,0 +1,10 @@
+<% div_for review do  %>
+ <p class="reviewtitle"> <strong><%= h(review.title) %></strong><br>
+     by <%= review.user.email %><br>
+     <p class="smalltext">Posted <%= time_ago_in_words(review.created_at) %></p>
+ <p><%= h(review.body) %></p>
+ </p>  
+ <% end %>
+ <%= link_to "Write a Review", new_restaurant_review_path(@restaurant) %>
+
+ 

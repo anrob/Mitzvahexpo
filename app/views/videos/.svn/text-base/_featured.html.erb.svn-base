@@ -1,0 +1,11 @@
+<% @videof.videos.each do |v| %>
+   <div class="video"> 
+   <strong><%= v.title %></strong> 
+   <%#= v.html_content %> 
+   <%#= v.embed_html(:width => 50, :height => 50) %> <br>
+   <%= v.embed_html(width = 520) %>
+   <%#= v.embed_url%>   
+   <p><%= simple_format(v.description) %>
+   </p>
+   </div>
+   <% end %>

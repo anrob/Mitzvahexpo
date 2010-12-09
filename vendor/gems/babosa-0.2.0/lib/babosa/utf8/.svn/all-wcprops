@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8
+END
+mappings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/mappings.rb
+END
+proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/proxy.rb
+END
+java_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/java_proxy.rb
+END
+unicode_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/unicode_proxy.rb
+END
+active_support_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/active_support_proxy.rb
+END
+dumb_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/babosa-0.2.0/lib/babosa/utf8/dumb_proxy.rb
+END

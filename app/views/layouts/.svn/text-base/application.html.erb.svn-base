@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><%= h(yield(:title) || "Mitzvah Expo") %></title>
+<%= stylesheet_link_tag 'reset','text','960','niftyCorners', 'niftyPrint','application', 'single_three' %>
+<!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+       <%= javascript_include_tag 'nifty', 'niftycube' %>
+
+       <%= yield(:head) %>
+       <script type="text/javascript">
+       window.onload=function(){
+         if(!NiftyCheck())
+           return;
+           Rounded("div#nifty","bl br","#000","smooth");
+          
+           Rounded("img#foodheader","all","#000","smooth"); 
+           Rounded("div.featured_text","bl br","smooth"); 
+           Rounded("div#topsection","all","smooth");
+           Rounded("div#leftside","bl br","smooth");   
+           }
+           </script>
+           <script type="text/javascript">
+             var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+             document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+           </script>
+
+           <script type="text/javascript">
+             RPXNOW.init({appId: 'hkfbpndfonbangolpifm',
+               xdReceiver: '/rpx_xdcomm.html'});
+           </script>
+           <%= auto_discovery_link_tag :atom, formatted_articles_path(:atom) %>
+           </head>
+           <body>
+               
+             <div id="logo" class="container_12">
+                <div class="grid_6">
+                  <img src="/images/logo.png" alt="Menu Marker" /> 
+                   <%- flash.each do |name, msg| -%>
+                       <%= content_tag :div, msg, :id => "flash_#{name}" %>
+                     <%- end -%>  
+                </div> 
+                <div class="grid_6 signin">
+                    <% if user_signed_in? %>
+                        Signed in as <%= current_user.email %>. Not you?
+                        <%= link_to "Sign out", destroy_user_session_path %>
+                      <% else %>
+                        <%= link_to_rpx "Sign in with Facebook", user_session_url %>  
+                     <% end -%>
+                </div>  
+                <div class="clear"> </div> 
+             </div>
+               <div class="clear"> </div>  
+             
+           <div id="topnav" class="menu container_12">
+               <ul>
+               <li class="single"><%= link_to "Home", root_url %></li>
+               <li class="single"><%= link_to "Articles", articles_path  %></li>
+               <li class="single"><%= link_to "Recipes", recipes_path  %></li>
+                 <li class="single"><%= link_to "Videos", videos_path  %></li>
+                  <div class="clear"> </div>  
+                 </ul>
+                       
+           </div> 
+           
+           <div id="nifty" class="container_12 mainbox">
+               <div class="grid_2" id="leftside">
+                   <div class="inside">
+                       <h5 class="catsname">Categories</h5>
+                       <ul>
+                           <% tag_cloud alltags, %w(css_class1 css_class2 css_class3 css_class4) do |tag, css_class| %>
+             <li><%= link_to tag.name, { :controller => :restaurants, :as => :vendors , :action => :tag, :id => tag.name }, :class => css_class %> (<%= tag.count %>)</li>
+                           <% end %>
+                      </ul>
+                      <%= render :partial => '/shared/adsenseleft' %>
+
+                   </div>
+               </div>
+           
+           
+           <div class="grid_8" id="maincontent">
+           <%= yield :welcomesection %>  
+           <%= yield :frontpage %>
+           <%- if show_title? -%>
+           <h1><%=h yield(:title) %></h1>
+         <%- end -%>
+
+         <%= yield %>
+         </div>
+         <div class="grid_2" id="rightside">
+         <div class="inside">
+         <%= yield :related %>
+         <%= render :partial => '/shared/adsense' %>
+
+         <%= yield :frontrecipes %>
+         </div>
+         </div>
+         <div class="clear"><!-- clear--></div>
+
+         </div>
+         <div id="footer">
+         <div class="container_12 footer_box">
+
+         <%= render :partial => '/shared/footerlinks' %>
+
+         </div>
+         </div>
+         <%#= javascript_include_rpx(user_session_url) %>
+         </body>
+         </html>

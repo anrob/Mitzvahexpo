@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/shared
+END
+_devise_links.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/shared/_devise_links.erb
+END
+_adsenseleft.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mitzvahexpo/!svn/ver/8/mitzvahexpo/app/views/shared/_adsenseleft.html.erb
+END
+_twitterbutton.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/shared/_twitterbutton.html.erb
+END
+_footerlinks.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/app/views/shared/_footerlinks.html.erb
+END
+_adsense.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mitzvahexpo/!svn/ver/15/mitzvahexpo/app/views/shared/_adsense.html.erb
+END

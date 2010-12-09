@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on
+END
+tags_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/tags_helper.rb
+END
+acts_as_taggable_on.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/acts_as_taggable_on.rb
+END
+tagging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/tagging.rb
+END
+acts_as_tagger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/acts_as_tagger.rb
+END
+tag_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/tag_list.rb
+END
+tag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/vendor/gems/acts-as-taggable-on-2.0.0.rc1/lib/acts_as_taggable_on/tag.rb
+END

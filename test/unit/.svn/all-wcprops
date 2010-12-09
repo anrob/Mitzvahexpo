@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit
+END
+review_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/review_test.rb
+END
+article_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/article_test.rb
+END
+video_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/video_test.rb
+END
+recipe_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/recipe_test.rb
+END
+restaurant_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/restaurant_test.rb
+END
+receipe_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mitzvahexpo/!svn/ver/1/mitzvahexpo/test/unit/receipe_test.rb
+END
